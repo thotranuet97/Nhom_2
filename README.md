@@ -1,17 +1,16 @@
-# Nhom_2
-Bài tập nhỏ nhóm 2: Sign up
+# MyPictures
+Dự án website chia sẻ ảnh
 
+# Thành viên
+1. Hoàng Đăng Kiên (Nhóm trưởng)
 
-Clone từ link : https://accounts.sachmem.vn/users/sign_up
+2. Trần Tuấn Anh
 
+3. Phạm Phương Tùng
 
-Thành viên nhóm: 
+4. Trần Thị Thơ
 
-
-Trần Thị Hằng
-
-
-Trần Thị Thơ
+5. Chu Thị Thơm 
 
 # HƯỚNG DẪN CÀI ĐẶT
 ### 1. Cài xampp (chương trình tạo máy chủ web)
