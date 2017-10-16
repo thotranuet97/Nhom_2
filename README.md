@@ -1,5 +1,6 @@
 # MyPictures
-Dự án website chia sẻ ảnh
+Dự án website chia sẻ ảnh 
+Nhóm 2 - Lớp Phát triển ứng dụng Web INT3306 3
 
 # Thành viên
 1. Hoàng Đăng Kiên (Nhóm trưởng)
@@ -12,7 +13,7 @@ Dự án website chia sẻ ảnh
 
 5. Chu Thị Thơm 
 
-# HƯỚNG DẪN CÀI ĐẶT
+# Hướng dẫn cài đặt
 ### 1. Cài xampp (chương trình tạo máy chủ web)
 
 * Cài xampp phiên bản phù hợp với máy tính, khuyến khích cài khác ổ C.
