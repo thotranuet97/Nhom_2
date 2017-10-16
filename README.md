@@ -13,8 +13,9 @@ Trần Thị Hằng
 
 Trần Thị Thơ
 
-#HƯỚNG DẪN CÀI ĐẶT
+# HƯỚNG DẪN CÀI ĐẶT
 1. Cài xampp (chương trình tạo máy chủ web)
+
 Cài xampp phiên bản phù hợp với máy tính, khuyến khích cài khác ổ C.
 Trong giao diện XAMPP control panel, chọn Start Apache và Start MySQL.
 Bật trình duyệt code lên, code, v.v… sau đó lưu file định dạng *.php vào thư mục chứa. Ví du: ‘E:\xampp\htdocs\php’.
